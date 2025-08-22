@@ -4,27 +4,21 @@ Coding Journal
 
 This repo is where I keep track of my coding journey — practice, experiments, and small projects.
 
+Folders
 
+**scripts/** → random Python practice scripts
 
-Folders:
+**notebook/** → Jupyter notebooks for data analysis + exploration
 
-**scripts/** → random Python practice scripts.
+**featured/** → projects I want to highlight
 
-**notebook/** → Jupyter notebooks where I try things out and do data analysis.
+Featured
 
-**featured/** → a couple of projects I think are worth highlighting.
+MSFT Sharpe Ratio Analysis → Microsoft stock data, monthly returns, yearly Sharpe ratios
 
+Apple Monthly Returns (2019) → Apple stock data cleaned + bar chart of monthly returns
 
-
-Featured:
-
-MSFT Sharpe Ratio Analysis → worked with Microsoft stock data, calculated monthly returns, and plotted yearly Sharpe ratios.
-
-Apple Monthly Returns (2019) → cleaned Apple stock data, calculated monthly returns, and made a bar chart by month.
-
-
-
-Other stuff I’ve done:
+Other stuff
 
 Simple and compound interest calculators
 
@@ -34,4 +28,4 @@ Pandas practice (cleaning data, handling missing values, sorting, etc.)
 
 Random stock analysis experiments
 
-More practice + small projects will go here as I keep learning.
+More stuff will be added as I keep learning.
